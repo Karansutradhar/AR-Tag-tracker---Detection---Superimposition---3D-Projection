@@ -1,7 +1,7 @@
 ENPM673: Perception for Autonomous Robotics Project 1
 
 #### Instructions to run the program for Project 1
-File name: ENPM673_project_1.py
+File name: AR_Tag_Tracker.py
 
 Two data directories are used: ReferenceImages and VideoDataset.
 Python 3 is required.
